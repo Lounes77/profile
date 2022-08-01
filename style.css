@@ -1,0 +1,85 @@
+#pic-profile {
+  background-position: center;
+  border-radius: 150px ;
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  object-position: 75%;
+  margin:auto;
+  display:flex;
+}
+
+h1 {
+  background-color: #fff0f3;
+  color: #9e2a2b;
+  font-size:xx-large;
+}
+
+h2 {
+  color: #ae2012;
+  text-decoration: underline;
+  font-size: 20px;
+}
+body {
+  text-align: center;
+  background: linear-gradient(blue, red);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: black;
+  font-size: medium;
+}
+
+a:hover {
+  background-color: bisque;
+  color: violet;
+}
+
+ul>li{
+  display: inline;
+}
+
+ul {
+  padding-inline-start: 0px;
+}
+
+.card-white1 {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+  border-radius: 4px;
+  margin: 0px auto;
+  text-align: center;
+  display: inline-block;
+}
+.card-white2 {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+  display: inline-block;
+}
+.card-white3 {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+  display: inline-block;
+}
+.card-white4 {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+  display: inline-block;
+}
+.btn-blue {
+  background-color: #6B72E1;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+}
